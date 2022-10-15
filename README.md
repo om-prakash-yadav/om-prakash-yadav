@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/om-prakash-yadav/om-prakash-yadav/main/Yellow%20%26%20Black%20Modern%20Company%20Profile%20Presentation.jpg" />
+  <img src="https://raw.githubusercontent.com/om-prakash-yadav/om-prakash-yadav/main/Yellow%20%26%20Black%20Modern%20Company%20Profile%20Presentation.jpg" height="200" />
 </p>
 <br>
 
