@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/om-prakash-yadav/om-prakash-yadav/main/Yellow%20%26%20Black%20Modern%20Company%20Profile%20Presentation.jpg" height="300" />
+  <img src="https://raw.githubusercontent.com/om-prakash-yadav/om-prakash-yadav/main/Yellow%20%26%20Black%20Modern%20Company%20Profile%20Presentation.jpg" height="600" />
 </p>
 <br>
 
@@ -32,16 +32,92 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
-✔ I’m currently learning about **deep learning**🥰<br>
-✔ I’m looking to collaborate with any **Open - Source data science projects**<br>
+🎓  I'm currently studying Mechanical Engineering at National Institute of Technology, Durgapur. <br>
+👨‍💻  Programming languages i 
+💡  Technologies I enjoy working with include C++,JavaScript,HTML, CSS, MySQL,React,Django, Git,  C, Linux.
 ✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
 ✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br><br><br>
  
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
 <p align="left">
+<b> </b>  
+
+<p align="center">
+  
+[<code  >
+<img alt="Python" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/python.png">
+</code>](#)
+[<code >
+<img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/mysql.png">
+</code>](#)
+[<code >
+<img alt="Java" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/java.png">
+</code>](#)
+[<code >
+<img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/html.png">
+</code>](#)
+[<code >
+<img alt="CSS3" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/css.png">
+</code>](#)
+[<code >
+<img alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/javascript.png" />
+</code>](#)
+[<code >
+<img alt="C" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/c.png" />
+</code>](#)
+[<code >
+<img alt="C++" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/cpp.png" />
+</code>](#)
+[<code >
+<img alt="Git" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/git.png">
+</code>](#)
+[<code >
+<img alt="Django" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/django.png">
+</code>](#)
+[<code >
+<img alt="ReactJS" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/react.png">
+</code>](#)
+[<code >
+<img alt="Powershell" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/powershell.png">
+</code>](#)
+[<code >
+<img alt="Sublime" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/sublime.png">
+</code>](#)
+[<code >
+<img alt="VS-Code" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/vscode.png" />
+</code>](#)
+[<code >
+<img alt="Intellij" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/intelejidea.png" />
+</code>](#)
+[<code >
+<img alt="Pycharm" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/pycharm.png" />
+</code>](#)
+[<code >
+<img alt="Windows" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/windows.png">
+</code>](#)
+[<code >
+<img alt="MacOS" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/macos.png">
+</code>](#)
+[<code>
+<img alt="Linux" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/linux.png">
+</code>](#)
+
+</p>  
+
+
   
   
+  
+  
+[linkedin]: https://www.linkedin.com/in/omprakash-nitdgp/
+[twitter]: https://twitter.com/intent/follow?screen_name=om_prakash_nit
+[email]: mailto:jnvomprakash121@gmail.com
+[instagram]: https://www.instagram.com/om_prakash_nit
+<!-- [leetcode]: https://leetcode.com/samirpaul1
+[hackerrank]: https://www.hackerrank.com/samirpaul1
+[codechef]: https://www.codechef.com/users/samirpaul1
+[geeksforgeeks]: https://auth.geeksforgeeks.org/user/samirpaul1/practice -->
 
 
 
