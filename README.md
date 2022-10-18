@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/om-prakash-yadav/om-prakash-yadav/main/Yellow%20%26%20Black%20Modern%20Company%20Profile%20Presentation.jpg" height="600" />
+  <img src="https://raw.githubusercontent.com/om-prakash-yadav/om-prakash-yadav/main/Yellow%20%26%20Black%20Modern%20Company%20Profile%20Presentation.jpg" height="350" />
 </p>
 <br>
 
@@ -33,8 +33,8 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
 🎓  I'm currently studying Mechanical Engineering at National Institute of Technology, Durgapur. <br>
-👨‍💻  Programming languages i 
-💡  Technologies I enjoy working with include C++,JavaScript,HTML, CSS, MySQL,React,Django, Git,  C, Linux.
+👨‍💻  Programming languages i am comforable in - C++, JavaScript, Python, HTML, CSS , MySQL
+💡  Technologies I enjoy working with include  React, Next.js, Django, Bootstrap, TailwindCSS, Git, Linux. <br>
 ✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
 ✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br><br><br>
  
