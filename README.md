@@ -45,8 +45,8 @@
 
 <p align="center">
   
-[<code  >
-<img alt="Python" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/python.png">
+[<code >
+<img alt="C++" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/cpp.png" />
 </code>](#)
 [<code >
 <img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/mysql.png">
@@ -66,8 +66,9 @@
 [<code >
 <img alt="C" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/c.png" />
 </code>](#)
-[<code >
-<img alt="C++" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/cpp.png" />
+
+  [<code  >
+<img alt="Python" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/python.png">
 </code>](#)
 [<code >
 <img alt="Git" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/git.png">
@@ -80,9 +81,6 @@
 </code>](#)
 [<code >
 <img alt="Powershell" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/powershell.png">
-</code>](#)
-[<code >
-<img alt="Sublime" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/sublime.png">
 </code>](#)
 [<code >
 <img alt="VS-Code" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/vscode.png" />
