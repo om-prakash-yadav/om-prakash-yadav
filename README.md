@@ -16,7 +16,7 @@
 
 </p>
 
-[![@om_prakash_yadav's Holopin board](https://holopin.me/om_prakash_yadav)](https://holopin.io/@om_prakash_yadav)
+
 
 <p align="center">
   <em>
