@@ -51,7 +51,7 @@
 [linkedin]: https://www.linkedin.com/in/omprakash-nitdgp/
 [twitter]: https://twitter.com/intent/follow?screen_name=om_prakash_nit
 [email]: mailto: omprakashnitdgp@gmail.com
-[instagram]: https://www.instagram.com/itsme_om_prakash
+
 
 
 
