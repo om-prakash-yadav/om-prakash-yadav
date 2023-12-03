@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/om-prakash-yadav/om-prakash-yadav/main/Yellow%20%26%20Black%20Modern%20Company%20Profile%20Presentation.jpg"  />
-</p>
-<br>
+
 
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=om-prakash-yadav&color=brightgreen" alt="watching_count" />
@@ -20,8 +17,8 @@
 
 <p align="center">
   <em>
-    Hello, I am Om Prakash Yadav a <b>final year</b> undergraduate from <a href="https://nitdgp.ac.in"> <b>National Institute Of Technology</b>, Durgapur (" Wisdom is all wealth ")</a>. <br>
-    <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Full Stack Web Developer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">
+    Hello, I am Om Prakash Yadav <br>
+    <b>a passionate Software Engineer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Full Stack Web & App Developer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">
   </em> 
   <br>
   <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
@@ -31,11 +28,11 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
-🎓  I'm currently studying Mechanical Engineering at National Institute of Technology, Durgapur. <br>
-👨‍💻  Programming languages i am comforable in - C++,TypeScript, JavaScript, Python, HTML, CSS , MySQL <br>
-💡  Technologies I enjoy working with include  React, React Native, Flutter, Next.js, Django, Bootstrap, TailwindCSS, Git, Linux. <br>
-✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
-✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br><br><br>
+🎓  I graduated from National Institute of Technology, Durgapur. <br>
+👨‍💻  Programming languages I am comfortable in - C++, TypeScript, JavaScript, Python and Dart<br>
+💡  Technologies I enjoy working with include  React, React Native, Flutter, Next.js, Django, Bootstrap, TailwindCSS, Git, and Linux. <br>
+✔ Ask me anything you want, If I am alive I will answer within seconds 😉<br>
+✔ Fun fact : *I Always try to learn something new and then sleep till it stores in the brain* 😎<br><br><br><br>
  
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
