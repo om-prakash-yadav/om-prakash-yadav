@@ -1,20 +1,4 @@
 
-
-<p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=om-prakash-yadav&color=brightgreen" alt="watching_count" />
- </p>
- <p align="center">
-<img src="https://img.shields.io/badge/Age-21-blue" />
-  <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" />
-  <img src="https://img.shields.io/badge/Lives-INDIA-success" />
-  <img src="https://img.shields.io/badge/Languages-English%20%26%20Hindi-brightgreen" />
-</p>
-<hr>
-
-</p>
-
-
-
 <p align="center">
   <em>
     Hello, I am Om Prakash Yadav <br>
