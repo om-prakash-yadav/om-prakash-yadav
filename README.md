@@ -46,14 +46,6 @@
 </div>
 
 <br/>
-
-<!-- About Me Section with Enhanced Design -->
-<div align="center">
-  <h2>👨‍💻 About Me - Who Am I? 👨‍💻</h2>
-</div>
-
-<br/>
-
 <!-- Tech Stack Section with Beautiful Icons -->
 <div align="center">
   <h2>🛠️ Tech Stack & Arsenal 🛠️</h2>
