@@ -2,14 +2,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Om%20Prakash%20Yadav&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer%20%7C%20Problem%20Solver&descAlignY=55&descAlign=50&descSize=18" />
 </div>
-
-<!-- Animated Typing Text -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2800&pause=800&color=F75C7E&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=140&lines=Welcome+to+my+Digital+Universe!+%F0%9F%8C%8C;Full+Stack+%2B+Mobile+App+Developer+%F0%9F%9A%80;Transforming+Ideas+into+Reality+%E2%9C%A8;Code+%7C+Create+%7C+Innovate+%F0%9F%92%A1" alt="Typing Animation" />
-</div>
-<br/>
-<br/>
-<br/>
 <!-- Animated Snake eating contributions -->
 <div align="center">
   <picture>
