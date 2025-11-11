@@ -55,9 +55,7 @@
 
 <!-- About Me Section with Enhanced Design -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
   <h2>👨‍💻 About Me - Who Am I? 👨‍💻</h2>
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 </div>
 
 <br/>
@@ -142,17 +140,11 @@ current_vibe:
 </tr>
 </table>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500">
-</div>
-
 <br/>
 
 <!-- Tech Stack Section with Beautiful Icons -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
   <h2>🛠️ Tech Stack & Arsenal 🛠️</h2>
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 </div>
 
 <br/>
@@ -201,17 +193,9 @@ current_vibe:
 
 <br/>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="400">
-</div>
-
-<br/>
-
 <!-- GitHub Stats Section -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
   <h2>📊 GitHub Analytics & Performance 📊</h2>
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 </div>
 
 <br/>
@@ -239,9 +223,7 @@ current_vibe:
 
 <!-- GitHub Trophies -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
   <h2>🏆 GitHub Achievements & Trophies 🏆</h2>
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 </div>
 
 <br/>
@@ -267,196 +249,9 @@ current_vibe:
 
 <br/>
 
-<!-- Coding Activity -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-  <h2>⚡ Recent Coding Activity ⚡</h2>
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-</div>
-
-<br/>
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<br/>
-
-<!-- Current Focus & Learning Path -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-  <h2>🎯 Current Focus & Learning Journey 🎯</h2>
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-</div>
-
-<br/>
-
-<div align="center">
-
-```mermaid
-mindmap
-  root((Om's Tech Journey))
-    Full Stack Development
-      Next.js 14
-      React Server Components
-      TypeScript Advanced Patterns
-      Node.js & Express
-    Mobile Development
-      Flutter Advanced
-      React Native
-      Cross-Platform Apps
-    Learning Path
-      System Design
-      Cloud Technologies
-      AI/ML Integration
-      Web3 & Blockchain
-    Open Source
-      Contributing Daily
-      Building Projects
-      Community Engagement
-      Code Reviews
-```
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### 📌 What I'm Currently Working On
-
-```javascript
-const currentProjects = [
-    "🚀 Building a SaaS platform with Next.js 14 & React",
-    "📱 Developing cross-platform mobile apps with Flutter",
-    "🎨 Creating beautiful UI components with Tailwind",
-    "🔧 Contributing to open-source projects",
-    "📚 Learning System Design & Cloud Architecture",
-    "💡 Exploring AI/ML integration in web apps"
-];
-
-currentProjects.forEach(project => {
-    console.log(`${project} - In Progress ✨`);
-});
-```
-
-</div>
-
-<br/>
-
-<!-- Inspirational Quote -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-  <h2>💭 Daily Motivation 💭</h2>
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" alt="Random Dev Quote" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="400">
-</div>
-
-<br/>
-
-<!-- Fun Facts & Extras -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-  <h2>🎮 Fun Facts & Random Stats 🎮</h2>
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-</div>
-
-<br/>
-
-<table align="center">
-<tr>
-<td align="center" width="50%">
-
-### ⚡ Quick Facts
-
-```python
-class Developer:
-    def __init__(self):
-        self.coffee_consumed = "∞ cups ☕"
-        self.bugs_created = "404 - Not Found 🐛"
-        self.bugs_fixed = "Over 9000! 🔧"
-        self.stack_overflow_visits = "Daily ritual 📚"
-        
-    def weekend_plans(self):
-        return ["Code", "Coffee", "Repeat"] * 2
-    
-    def favorite_quote(self):
-        return "First, solve the problem. Then, write the code."
-
-om = Developer()
-print(om.weekend_plans())
-# Output: ['Code', 'Coffee', 'Repeat', 'Code', 'Coffee', 'Repeat']
-```
-
-</td>
-<td align="center" width="50%">
-
-### 🎯 Code Philosophy
-
-<img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce4d9c6e7.gif" width="300">
-
-**✨ Write code that humans can read**
-
-**🚀 Optimize for developer happiness**
-
-**🔄 Refactor relentlessly**
-
-**🧪 Test like your life depends on it**
-
-**📖 Document for your future self**
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- GitHub Metrics -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=omprakash&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&layout=compact" alt="WakaTime Stats" />
-</div>
-
-<br/>
-
-<!-- Support Section -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-  <h2>☕ Support My Work ☕</h2>
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-</div>
-
-<br/>
-
-<div align="center">
-  <p>If you like my work and want to support me, consider buying me a coffee! ☕</p>
-  
-  <a href="https://www.buymeacoffee.com/omprakash" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" width="210">
-  </a>
-  
-  <br/><br/>
-  
-  <p>⭐ Star my repositories if you find them useful!</p>
-  <p>🤝 Open to collaborate on exciting projects!</p>
-</div>
-
-<br/>
-
 <!-- Let's Connect -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-  <h2>💬 Let's Connect & Build Together! 💬</h2>
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+  <h2> Let's Connect & Build Together! 💬</h2>
 </div>
 
 <br/>
@@ -513,36 +308,9 @@ print(om.weekend_plans())
 
 <br/>
 
-<!-- Visitor Counter -->
-<div align="center">
-  <h3>👥 Profile Visitors</h3>
-  <img src="https://profile-counter.glitch.me/om-prakash-yadav/count.svg" alt="Visitor Count" />
-</div>
-
-<br/>
-
-<!-- Animated Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
-</div>
-
-<!-- Snake Animation Footer -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" alt="Footer Animation" />
-</div>
-
-<!-- Final Message -->
-<div align="center">
-  <h3>💙 Thanks for visiting! Have a great day! 💙</h3>
-  <p><i>⭐ From <a href="https://github.com/om-prakash-yadav">Om Prakash Yadav</a> with ❤️</i></p>
-  
-  <br/>
-  
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-</div>
-
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Made+with+%E2%9D%A4%EF%B8%8F+and+lots+of+%E2%98%95;Happy+Coding!+%F0%9F%9A%80;Keep+Building+Amazing+Things!+%E2%9C%A8" alt="Footer Typing" />
+  <h3>💙 Thanks for visiting! Have a great day! 💙</h3>
+  <p><i>⭐ From <a href="https://github.com/om-prakash-yadav">Om Prakash Yadav</a> with ❤️</i></p>
 </div>
