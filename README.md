@@ -1,13 +1,13 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:FF512F,50:DD2476,100:8E2DE2&height=200&section=header&text=Om%20Prakash%20Yadav&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=MTS%202%20%40%20Tessell%20%E2%80%A2%20Building%20AI%20CloudOps%20for%20AWS%20and%20Azure&descAlignY=65&descSize=18" width="100%" alt="Om Prakash Yadav" />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0e4429,50:006d32,100:26a641&height=200&section=header&text=Om%20Prakash%20Yadav&fontSize=56&fontColor=ffffff&fontAlignY=40&desc=MTS%202%20%40%20Tessell%20%E2%80%A2%20Building%20AI%20CloudOps%20for%20AWS%20and%20Azure&descAlignY=65&descSize=18" width="100%" alt="Om Prakash Yadav" />
 </div>
 
 <div align="center">
-  <a href="https://om-portfolio-delta.vercel.app"><img src="https://img.shields.io/badge/Portfolio-FF512F?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/omprakash-nitdgp/"><img src="https://img.shields.io/badge/LinkedIn-F0365A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/intent/follow?screen_name=om_prakash_nit"><img src="https://img.shields.io/badge/X-DD2476?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="mailto:omprakashnitdgp@gmail.com"><img src="https://img.shields.io/badge/Email-B32BD9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=om-prakash-yadav&label=profile%20views&color=8E2DE2&style=for-the-badge" alt="Profile views" />
+  <a href="https://om-portfolio-delta.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Portfolio-21262d?style=flat-square&logo=vercel&logoColor=e6edf3" /><img src="https://img.shields.io/badge/Portfolio-eaeef2?style=flat-square&logo=vercel&logoColor=1f2328" alt="Portfolio" /></picture></a>
+  <a href="https://www.linkedin.com/in/omprakash-nitdgp/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LinkedIn-21262d?style=flat-square&logo=linkedin&logoColor=e6edf3" /><img src="https://img.shields.io/badge/LinkedIn-eaeef2?style=flat-square&logo=linkedin&logoColor=1f2328" alt="LinkedIn" /></picture></a>
+  <a href="https://twitter.com/intent/follow?screen_name=om_prakash_nit"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/X-21262d?style=flat-square&logo=x&logoColor=e6edf3" /><img src="https://img.shields.io/badge/X-eaeef2?style=flat-square&logo=x&logoColor=1f2328" alt="X" /></picture></a>
+  <a href="mailto:omprakashnitdgp@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Email-21262d?style=flat-square&logo=gmail&logoColor=e6edf3" /><img src="https://img.shields.io/badge/Email-eaeef2?style=flat-square&logo=gmail&logoColor=1f2328" alt="Email" /></picture></a>
+  <img src="https://komarev.com/ghpvc/?username=om-prakash-yadav&label=profile%20views&color=1f883d&style=flat-square" alt="Profile views" />
 </div>
 
 <br/>
@@ -67,13 +67,13 @@ I build Tessell's **AI-powered CloudOps desktop app** for AWS and Azure, with **
       <img src="https://raw.githubusercontent.com/om-prakash-yadav/om-portfolio/main/public/cloudops/estate.webp" alt="AI CloudOps desktop app" width="100%" /><br/>
       <b>AI CloudOps Desktop App</b> <sub>@ Tessell</sub><br/>
       <sub>AI-powered CloudOps desktop app for AWS and Azure.</sub><br/>
-      <img src="https://img.shields.io/badge/Tauri-1e1b2e?style=flat-square&logo=tauri&logoColor=F472B6" /> <img src="https://img.shields.io/badge/Rust-1e1b2e?style=flat-square&logo=rust&logoColor=F472B6" /> <img src="https://img.shields.io/badge/React-1e1b2e?style=flat-square&logo=react&logoColor=F472B6" />
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Tauri-21262d?style=flat-square&logo=tauri&logoColor=e6edf3" /><img src="https://img.shields.io/badge/Tauri-eaeef2?style=flat-square&logo=tauri&logoColor=1f2328" alt="Tauri" /></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Rust-21262d?style=flat-square&logo=rust&logoColor=e6edf3" /><img src="https://img.shields.io/badge/Rust-eaeef2?style=flat-square&logo=rust&logoColor=1f2328" alt="Rust" /></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/React-21262d?style=flat-square&logo=react&logoColor=e6edf3" /><img src="https://img.shields.io/badge/React-eaeef2?style=flat-square&logo=react&logoColor=1f2328" alt="React" /></picture>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/om-prakash-yadav/liquid-glass-navigation"><img src="https://raw.githubusercontent.com/om-prakash-yadav/liquid-glass-navigation/main/screenshots/badges.png" alt="Liquid Glass Nav" width="100%" /></a><br/>
       <b><a href="https://github.com/om-prakash-yadav/liquid-glass-navigation">Liquid Glass Nav</a></b> <sub>· <a href="https://pub.dev/packages/liquid_glass_nav">pub.dev</a></sub><br/>
       <sub>Glassmorphism bottom navigation bar for Flutter.</sub><br/>
-      <img src="https://img.shields.io/badge/Flutter-1e1b2e?style=flat-square&logo=flutter&logoColor=F472B6" /> <img src="https://img.shields.io/badge/Dart-1e1b2e?style=flat-square&logo=dart&logoColor=F472B6" />
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Flutter-21262d?style=flat-square&logo=flutter&logoColor=e6edf3" /><img src="https://img.shields.io/badge/Flutter-eaeef2?style=flat-square&logo=flutter&logoColor=1f2328" alt="Flutter" /></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Dart-21262d?style=flat-square&logo=dart&logoColor=e6edf3" /><img src="https://img.shields.io/badge/Dart-eaeef2?style=flat-square&logo=dart&logoColor=1f2328" alt="Dart" /></picture>
     </td>
   </tr>
   <tr>
@@ -81,13 +81,13 @@ I build Tessell's **AI-powered CloudOps desktop app** for AWS and Azure, with **
       <a href="https://github.com/om-prakash-yadav/passion-browser"><img src="https://raw.githubusercontent.com/om-prakash-yadav/passion-browser/main/.github/assets/home%20page.jpg" alt="Passion Browser" width="100%" /></a><br/>
       <b><a href="https://github.com/om-prakash-yadav/passion-browser">Passion Browser</a></b><br/>
       <sub>Web browser with built-in ad blocking and a Material 3 UI.</sub><br/>
-      <img src="https://img.shields.io/badge/Flutter-1e1b2e?style=flat-square&logo=flutter&logoColor=F472B6" /> <img src="https://img.shields.io/badge/Material_3-1e1b2e?style=flat-square&logo=materialdesign&logoColor=F472B6" />
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Flutter-21262d?style=flat-square&logo=flutter&logoColor=e6edf3" /><img src="https://img.shields.io/badge/Flutter-eaeef2?style=flat-square&logo=flutter&logoColor=1f2328" alt="Flutter" /></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Material_3-21262d?style=flat-square&logo=materialdesign&logoColor=e6edf3" /><img src="https://img.shields.io/badge/Material_3-eaeef2?style=flat-square&logo=materialdesign&logoColor=1f2328" alt="Material 3" /></picture>
     </td>
     <td width="50%" valign="top">
       <a href="https://om-portfolio-delta.vercel.app"><img src="https://raw.githubusercontent.com/om-prakash-yadav/om-portfolio/main/public/cloudops/topology.webp" alt="Portfolio" width="100%" /></a><br/>
       <b><a href="https://om-portfolio-delta.vercel.app">This portfolio</a></b> <sub>· <a href="https://github.com/om-prakash-yadav/om-portfolio">code</a></sub><br/>
       <sub>A scroll-driven three.js scene and a 3D coverflow of my work.</sub><br/>
-      <img src="https://img.shields.io/badge/Next.js-1e1b2e?style=flat-square&logo=nextdotjs&logoColor=F472B6" /> <img src="https://img.shields.io/badge/three.js-1e1b2e?style=flat-square&logo=threedotjs&logoColor=F472B6" /> <img src="https://img.shields.io/badge/GSAP-1e1b2e?style=flat-square&logo=greensock&logoColor=F472B6" />
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Next.js-21262d?style=flat-square&logo=nextdotjs&logoColor=e6edf3" /><img src="https://img.shields.io/badge/Next.js-eaeef2?style=flat-square&logo=nextdotjs&logoColor=1f2328" alt="Next.js" /></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/three.js-21262d?style=flat-square&logo=threedotjs&logoColor=e6edf3" /><img src="https://img.shields.io/badge/three.js-eaeef2?style=flat-square&logo=threedotjs&logoColor=1f2328" alt="three.js" /></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GSAP-21262d?style=flat-square&logo=greensock&logoColor=e6edf3" /><img src="https://img.shields.io/badge/GSAP-eaeef2?style=flat-square&logo=greensock&logoColor=1f2328" alt="GSAP" /></picture>
     </td>
   </tr>
 </table>
@@ -107,17 +107,17 @@ I build Tessell's **AI-powered CloudOps desktop app** for AWS and Azure, with **
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=om-prakash-yadav&show_icons=true&hide_border=true&hide_rank=true&count_private=true&bg_color=00000000&title_color=DD2476&icon_color=A855F7&text_color=c9d1d9" />
-    <img height="170" src="https://github-stats-extended.vercel.app/api?username=om-prakash-yadav&show_icons=true&hide_border=true&hide_rank=true&count_private=true&bg_color=00000000&title_color=DD2476&icon_color=A855F7&text_color=24292f" alt="GitHub stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=om-prakash-yadav&show_icons=true&hide_rank=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9&border_color=30363d" />
+    <img height="170" src="https://github-stats-extended.vercel.app/api?username=om-prakash-yadav&show_icons=true&hide_rank=true&count_private=true&bg_color=ffffff&title_color=0969da&icon_color=1a7f37&text_color=1f2328&border_color=d0d7de" alt="GitHub stats" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs?username=om-prakash-yadav&layout=compact&hide_border=true&langs_count=8&hide=html,jupyter%20notebook&bg_color=00000000&title_color=DD2476&text_color=c9d1d9" />
-    <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs?username=om-prakash-yadav&layout=compact&hide_border=true&langs_count=8&hide=html,jupyter%20notebook&bg_color=00000000&title_color=DD2476&text_color=24292f" alt="Top languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs?username=om-prakash-yadav&layout=compact&langs_count=8&hide=html,jupyter%20notebook&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d" />
+    <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs?username=om-prakash-yadav&layout=compact&langs_count=8&hide=html,jupyter%20notebook&bg_color=ffffff&title_color=0969da&text_color=1f2328&border_color=d0d7de" alt="Top languages" />
   </picture>
   <br/>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=om-prakash-yadav&hide_border=true&background=00000000&ring=DD2476&fire=FF512F&currStreakLabel=DD2476&sideLabels=A855F7&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&stroke=30363d" />
-    <img src="https://streak-stats.demolab.com?user=om-prakash-yadav&hide_border=true&background=00000000&ring=DD2476&fire=FF512F&currStreakLabel=DD2476&sideLabels=A855F7&currStreakNum=24292f&sideNums=24292f&dates=57606a&stroke=d0d7de" alt="Contribution streak" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=om-prakash-yadav&hide_border=false&border=30363d&background=0d1117&ring=3fb950&fire=3fb950&currStreakLabel=3fb950&sideLabels=58a6ff&currStreakNum=e6edf3&sideNums=e6edf3&dates=8b949e&stroke=30363d" />
+    <img src="https://streak-stats.demolab.com?user=om-prakash-yadav&hide_border=false&border=d0d7de&background=ffffff&ring=1a7f37&fire=1a7f37&currStreakLabel=1a7f37&sideLabels=0969da&currStreakNum=1f2328&sideNums=1f2328&dates=656d76&stroke=d0d7de" alt="Contribution streak" />
   </picture>
 </div>
 
@@ -142,7 +142,7 @@ I build Tessell's **AI-powered CloudOps desktop app** for AWS and Azure, with **
 </table>
 
 <div align="center">
-  <img src="https://readme-jokes.vercel.app/api?bgColor=%230d1117&textColor=%23F472B6&aColor=%23A855F7&borderColor=%2330363d" alt="Joke of the day" />
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://readme-jokes.vercel.app/api?bgColor=%230d1117&textColor=%23e6edf3&aColor=%2358a6ff&borderColor=%2330363d" /><img src="https://readme-jokes.vercel.app/api?bgColor=%23ffffff&textColor=%231f2328&aColor=%230969da&borderColor=%23d0d7de" alt="Joke of the day" /></picture>
 </div>
 
 ---
@@ -151,4 +151,4 @@ I build Tessell's **AI-powered CloudOps desktop app** for AWS and Azure, with **
   <b>Let's build something together.</b> Say hi on <a href="https://www.linkedin.com/in/omprakash-nitdgp/">LinkedIn</a> or <a href="mailto:omprakashnitdgp@gmail.com">email</a> 👋
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:8E2DE2,50:DD2476,100:FF512F&height=80&section=footer&text=Thanks%20for%20stopping%20by&fontSize=24&fontColor=ffffff&fontAlignY=50" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:26a641,50:006d32,100:0e4429&height=80&section=footer&text=Thanks%20for%20stopping%20by&fontSize=24&fontColor=ffffff&fontAlignY=50" width="100%" alt="" />
