@@ -1,5 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0e4429,50:006d32,100:26a641&height=200&section=header&text=Om%20Prakash%20Yadav&fontSize=56&fontColor=ffffff&fontAlignY=40&desc=MTS%202%20%40%20Tessell%20%E2%80%A2%20Building%20AI%20CloudOps%20for%20AWS%20and%20Azure&descAlignY=65&descSize=18" width="100%" alt="Om Prakash Yadav" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg" />
+    <img src="./assets/header-light.svg" width="100%" alt="Om Prakash Yadav, MTS 2 at Tessell" />
+  </picture>
 </div>
 
 <div align="center">
@@ -151,4 +154,7 @@ I build Tessell's **AI-powered CloudOps desktop app** for AWS and Azure, with **
   <b>Let's build something together.</b> Say hi on <a href="https://www.linkedin.com/in/omprakash-nitdgp/">LinkedIn</a> or <a href="mailto:omprakashnitdgp@gmail.com">email</a> 👋
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:26a641,50:006d32,100:0e4429&height=80&section=footer&text=Thanks%20for%20stopping%20by&fontSize=24&fontColor=ffffff&fontAlignY=50" width="100%" alt="" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/footer-dark.svg" />
+  <img src="./assets/footer-light.svg" width="100%" alt="Thanks for stopping by" />
+</picture>

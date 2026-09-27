@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="90" viewBox="0 0 1200 90" role="img" aria-label="Thanks for stopping by">
+  <rect x="0.5" y="0.5" width="1199" height="89" rx="12" fill="#0d1117" stroke="#30363d"/>
+  <g>
+    <rect x="40" y="20" width="13" height="13" rx="3" fill="#161b22"></rect>
+    <rect x="40" y="37" width="13" height="13" rx="3" fill="#161b22"></rect>
+    <rect x="40" y="54" width="13" height="13" rx="3" fill="#26a641"></rect>
+    <rect x="57" y="20" width="13" height="13" rx="3" fill="#161b22"></rect>
+    <rect x="57" y="37" width="13" height="13" rx="3" fill="#161b22"></rect>
+    <rect x="57" y="54" width="13" height="13" rx="3" fill="#0e4429"></rect>
+    <rect x="74" y="20" width="13" height="13" rx="3" fill="#0e4429"></rect>
+    <rect x="74" y="37" width="13" height="13" rx="3" fill="#161b22"></rect>
+    <rect x="74" y="54" width="13" height="13" rx="3" fill="#161b22"></rect>
+    <rect x="91" y="20" width="13" height="13" rx="3" fill="#161b22"></rect>
+    <rect x="91" y="37" width="13" height="13" rx="3" fill="#0e4429"></rect>
+    <rect x="91" y="54" width="13" height="13" rx="3" fill="#161b22"></rect>
+    <rect x="108" y="20" width="13" height="13" rx="3" fill="#161b22"></rect>
+    <rect x="108" y="37" width="13" height="13" rx="3" fill="#161b22"></rect>
+    <rect x="108" y="54" width="13" height="13" rx="3" fill="#161b22"></rect>
+    <rect x="125" y="20" width="13" height="13" rx="3" fill="#161b22"></rect>
+    <rect x="125" y="37" width="13" height="13" rx="3" fill="#161b22"></rect>
+    <rect x="125" y="54" width="13" height="13" rx="3" fill="#161b22"></rect>
+    <rect x="142" y="20" width="13" height="13" rx="3" fill="#161b22"></rect>
+    <rect x="142" y="37" width="13" height="13" rx="3" fill="#006d32"></rect>
+    <rect x="142" y="54" width="13" height="13" rx="3" fill="#161b22"></rect>
+    <rect x="159" y="20" width="13" height="13" rx="3" fill="#161b22"></rect>
+    <rect x="159" y="37" width="13" height="13" rx="3" fill="#006d32"></rect>
+    <rect x="159" y="54" width="13" height="13" rx="3" fill="#006d32"></rect>
+    <rect x="176" y="20" width="13" height="13" rx="3" fill="#161b22"></rect>
+    <rect x="176" y="37" width="13" height="13" rx="3" fill="#161b22"></rect>
+    <rect x="176" y="54" width="13" height="13" rx="3" fill="#161b22"></rect>
+    <rect x="193" y="20" width="13" height="13" rx="3" fill="#161b22"></rect>
+    <rect x="193" y="37" width="13" height="13" rx="3" fill="#161b22"><animate attributeName="fill" values="#161b22;#39d353;#161b22" dur="2.7s" begin="0.9s" repeatCount="indefinite"/></rect>
+    <rect x="193" y="54" width="13" height="13" rx="3" fill="#161b22"><animate attributeName="fill" values="#161b22;#39d353;#161b22" dur="4.0s" begin="0.6s" repeatCount="indefinite"/></rect>
+    <rect x="210" y="20" width="13" height="13" rx="3" fill="#161b22"></rect>
+    <rect x="210" y="37" width="13" height="13" rx="3" fill="#0e4429"></rect>
+    <rect x="210" y="54" width="13" height="13" rx="3" fill="#161b22"></rect>
+    <rect x="227" y="20" width="13" height="13" rx="3" fill="#006d32"></rect>
+    <rect x="227" y="37" width="13" height="13" rx="3" fill="#26a641"></rect>
+    <rect x="227" y="54" width="13" height="13" rx="3" fill="#0e4429"><animate attributeName="fill" values="#0e4429;#39d353;#0e4429" dur="2.4s" begin="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="244" y="20" width="13" height="13" rx="3" fill="#161b22"></rect>
+    <rect x="244" y="37" width="13" height="13" rx="3" fill="#26a641"></rect>
+    <rect x="244" y="54" width="13" height="13" rx="3" fill="#006d32"></rect>
+    <rect x="261" y="20" width="13" height="13" rx="3" fill="#26a641"></rect>
+    <rect x="261" y="37" width="13" height="13" rx="3" fill="#006d32"></rect>
+    <rect x="261" y="54" width="13" height="13" rx="3" fill="#161b22"></rect>
+    <rect x="278" y="20" width="13" height="13" rx="3" fill="#006d32"></rect>
+    <rect x="278" y="37" width="13" height="13" rx="3" fill="#006d32"></rect>
+    <rect x="278" y="54" width="13" height="13" rx="3" fill="#161b22"></rect>
+    <rect x="295" y="20" width="13" height="13" rx="3" fill="#39d353"></rect>
+    <rect x="295" y="37" width="13" height="13" rx="3" fill="#161b22"></rect>
+    <rect x="295" y="54" width="13" height="13" rx="3" fill="#39d353"></rect>
+    <rect x="312" y="20" width="13" height="13" rx="3" fill="#0e4429"></rect>
+    <rect x="312" y="37" width="13" height="13" rx="3" fill="#161b22"><animate attributeName="fill" values="#161b22;#39d353;#161b22" dur="3.8s" begin="1.7s" repeatCount="indefinite"/></rect>
+    <rect x="312" y="54" width="13" height="13" rx="3" fill="#0e4429"></rect>
+    <rect x="329" y="20" width="13" height="13" rx="3" fill="#161b22"></rect>
+    <rect x="329" y="37" width="13" height="13" rx="3" fill="#39d353"></rect>
+    <rect x="329" y="54" width="13" height="13" rx="3" fill="#161b22"></rect>
+    <rect x="346" y="20" width="13" height="13" rx="3" fill="#26a641"><animate attributeName="fill" values="#26a641;#39d353;#26a641" dur="2.4s" begin="1.1s" repeatCount="indefinite"/></rect>
+    <rect x="346" y="37" width="13" height="13" rx="3" fill="#0e4429"><animate attributeName="fill" values="#0e4429;#39d353;#0e4429" dur="3.8s" begin="2.5s" repeatCount="indefinite"/></rect>
+    <rect x="346" y="54" width="13" height="13" rx="3" fill="#006d32"></rect>
+    <rect x="363" y="20" width="13" height="13" rx="3" fill="#006d32"></rect>
+    <rect x="363" y="37" width="13" height="13" rx="3" fill="#26a641"></rect>
+    <rect x="363" y="54" width="13" height="13" rx="3" fill="#0e4429"></rect>
+  </g>
+  <text x="1160" y="52" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="22" font-weight="600" fill="#e6edf3">Thanks for stopping by <tspan fill="#58a6ff">·</tspan> <tspan fill="#8b949e" font-weight="400">let's build something</tspan></text>
+</svg>
