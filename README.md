@@ -1,6 +1,6 @@
 <!-- Animated Header with Wave -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Om%20Prakash%20Yadav&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer%20%7C%20Problem%20Solver&descAlignY=55&descAlign=50&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Om%20Prakash%20Yadav&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=MTS%202%20%40%20Tessell%20%7C%20Full%20Stack%20%26%20Desktop%20Engineer%20%7C%20Bangalore&descAlignY=55&descAlign=50&descSize=18" />
 </div>
 <!-- Animated Snake eating contributions -->
 <div align="center">
@@ -18,7 +18,7 @@
   <img src="https://komarev.com/ghpvc/?username=om-prakash-yadav&label=PROFILE+VIEWS&color=brightgreen&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/om-prakash-yadav?label=FOLLOWERS&style=for-the-badge&color=blue&logo=github" alt="Followers" />
   <img src="https://img.shields.io/github/stars/om-prakash-yadav?label=STARS&style=for-the-badge&color=yellow&logo=github" alt="Stars" />
-  <img src="https://img.shields.io/badge/FOCUS-Full%20Stack%20Dev-orange?style=for-the-badge" alt="Focus" />
+  <img src="https://img.shields.io/badge/NOW-MTS%202%20%40%20Tessell-2AB4E7?style=for-the-badge" alt="Now at Tessell" />
 </div>
 
 <br/>
@@ -39,11 +39,76 @@
   <a href="https://github.com/om-prakash-yadav">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub" height="35"/>
   </a>
+  <a href="https://om-portfolio-delta.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-E8390D?style=for-the-badge&logo=vercel&logoColor=white&labelColor=E8390D" alt="Portfolio" height="35"/>
+  </a>
   
   <br/><br/>
   
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </div>
+
+<br/>
+
+<!-- About Me -->
+<div align="center">
+  <h2>👨‍💻 About Me</h2>
+</div>
+
+- 🚀 **Member of Technical Staff 2 (MTS 2) at [Tessell](https://www.tessell.com)**, Bangalore, building **Escher**, an AI-powered CloudOps desktop app for AWS and Azure, with **Tauri, Rust, React and TypeScript**
+- 🏆 Previously a **Software Engineer at Deloitte USI**, on Henry Schein's Global E-commerce Platform (1M+ customers), with two awards for delivery and innovation
+- 🎓 **B.Tech from NIT Durgapur** (2020–2024)
+- 📦 Author of **[liquid_glass_nav](https://pub.dev/packages/liquid_glass_nav)**, a Flutter glassmorphism navigation bar package on pub.dev
+- 🌐 Portfolio: **[om-portfolio-delta.vercel.app](https://om-portfolio-delta.vercel.app)**
+
+<br/>
+
+<!-- Experience -->
+<div align="center">
+  <h2>💼 Experience</h2>
+</div>
+
+<table>
+  <tr>
+    <td width="90" align="center"><img src="https://www.tessell.com/icon.svg" width="40" alt="Tessell" /></td>
+    <td>
+      <strong>Member of Technical Staff 2 (MTS 2) · Tessell</strong><br/>
+      <sub>Mar 2026 – Present · Bangalore</sub><br/>
+      Building Escher, Tessell's AI CloudOps desktop app: onboarding with AWS/Azure profile discovery and a bundled Python runtime, the Cloud Estate browser with an interactive network topology, OAuth integrations for GitHub, Google Drive, Jira, Linear and Slack with tokens in the OS keychain, and step-by-step runbook execution for cloud findings.
+    </td>
+  </tr>
+  <tr>
+    <td width="90" align="center"><img src="https://www.google.com/s2/favicons?domain=deloitte.com&sz=128" width="40" alt="Deloitte" /></td>
+    <td>
+      <strong>Software Engineer · Deloitte USI</strong><br/>
+      <sub>Jul 2024 – Mar 2026 · Hyderabad</sub><br/>
+      Pricing, promotions and order flow for Henry Schein's Global E-commerce Platform (Angular, Sitecore), serving 1M+ customers. Built design-system components that improved UI performance by 25%. Two awards for delivery and innovation.
+    </td>
+  </tr>
+  <tr>
+    <td width="90" align="center"><img src="https://www.google.com/s2/favicons?domain=tetratrion.com&sz=128" width="40" alt="TetraTrion" /></td>
+    <td>
+      <strong>Software Engineer (Part-Time) · TetraTrion Technologies</strong><br/>
+      <sub>Sep 2023 – Jul 2024 · Bhubaneswar</sub><br/>
+      Client-facing dashboards with React.js and Apache ECharts.
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- Featured Projects -->
+<div align="center">
+  <h2>🌟 Featured Projects</h2>
+</div>
+
+| Project | What it is | Stack |
+|---|---|---|
+| **Escher** (Tessell) | AI-powered CloudOps desktop app for AWS and Azure | Tauri · Rust · React · TypeScript |
+| **[Liquid Glass Nav](https://github.com/om-prakash-yadav/liquid-glass-navigation)** | Glassmorphism bottom navigation bar for Flutter, [on pub.dev](https://pub.dev/packages/liquid_glass_nav) | Flutter · Dart |
+| **[Passion Browser](https://github.com/om-prakash-yadav/passion-browser)** | Web browser with built-in ad blocking and Material 3 UI | Flutter · Dart |
+| **[Hospital Management System](https://github.com/om-prakash-yadav/Hospital-Management-System-User-Side)** | MERN app for appointments and online reports ([live](https://hospital-management-system-user-sid.vercel.app/)) | React · Node · MongoDB |
+| **[Portfolio](https://github.com/om-prakash-yadav/om-portfolio)** | This portfolio: a scroll-driven three.js scene and a 3D project showcase ([live](https://om-portfolio-delta.vercel.app)) | Next.js · three.js · GSAP |
 
 <br/>
 <!-- Tech Stack Section with Beautiful Icons -->
@@ -58,7 +123,7 @@
 ### 💻 Programming Languages
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=cpp,typescript,javascript,python,dart,java&perline=6&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cpp,typescript,javascript,rust,python,dart,java&perline=7&theme=dark" />
 </a>
 
 <br/><br/>
@@ -66,15 +131,15 @@
 ### 🎨 Frontend Development
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,html,css,bootstrap,sass&perline=8&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,redux,threejs,html,css,bootstrap,sass&perline=10&theme=dark" />
 </a>
 
 <br/><br/>
 
-### 📱 Mobile Development
+### 📱 Mobile & Desktop
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,flutter,dart,androidstudio&perline=4&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,flutter,dart,androidstudio,tauri&perline=5&theme=dark" />
 </a>
 
 <br/><br/>
@@ -90,7 +155,7 @@
 ### 🔧 DevOps & Tools
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,figma,vercel&perline=8&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws,azure,vscode,postman,figma,vercel&perline=10&theme=dark" />
 </a>
 
 </div>
@@ -168,8 +233,8 @@
   <h3>📫 How to Reach Me</h3>
   
   <p>
-    💼 <strong>Open for:</strong> Full-time opportunities | Freelance projects | Collaborations<br/>
-    🌟 <strong>Interested in:</strong> Full Stack Development | Mobile Apps | Open Source<br/>
+    💼 <strong>Open for:</strong> Collaborations | Open source | Interesting conversations<br/>
+    🌟 <strong>Interested in:</strong> Desktop & Full Stack Apps | Cloud Tooling | Mobile Apps<br/>
     💡 <strong>Always ready to:</strong> Learn | Share | Grow | Build
   </p>
   
@@ -192,15 +257,15 @@
   <table>
     <tr>
       <td>🔨 Working on</td>
-      <td><strong>Exciting Full Stack Projects</strong></td>
+      <td><strong>Escher, an AI CloudOps desktop app at Tessell</strong></td>
     </tr>
     <tr>
       <td>📚 Learning</td>
-      <td><strong>System Design & Cloud Architecture</strong></td>
+      <td><strong>Rust, System Design & Cloud Architecture</strong></td>
     </tr>
     <tr>
       <td>💬 Ask me about</td>
-      <td><strong>React, Next.js, Node.js, Flutter, TypeScript</strong></td>
+      <td><strong>React, TypeScript, Tauri, Next.js, Flutter</strong></td>
     </tr>
     <tr>
       <td>⚡ Fun fact</td>
