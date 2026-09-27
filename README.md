@@ -22,11 +22,12 @@
 
 ## Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" alt="wave" />
 
-I'm **Om**, a **Member of Technical Staff 2** at **[Tessell](https://www.tessell.com)** in Bangalore.
+I'm **Om**, a **Full-Stack Software Engineer** and **Member of Technical Staff 2** at **[Tessell](https://www.tessell.com)** in Bangalore.
 
-I build Tessell's **AI-powered CloudOps desktop app** for AWS and Azure, with **Tauri, Rust, React and TypeScript**. Before that I shipped e-commerce at scale at **Deloitte USI**, and I still sneak Flutter packages onto pub.dev on weekends.
+I build Tessell's **AI-powered CloudOps desktop app** for AWS and Azure, with **Tauri, Rust, React and TypeScript**. I also build **AI agents** with LLMs, RAG and MCP. Before Tessell I built full-stack healthcare software at **Deloitte USI**, and I still sneak Flutter packages onto pub.dev on weekends.
 
 - 🔭 &nbsp;Building a desktop app that talks to your whole cloud estate
+- 🏆 &nbsp;**#1 for Most Ships to Production** (3rd overall) in Tessell's company-wide hackathon
 - 🦀 &nbsp;Getting properly good at Rust
 - 📦 &nbsp;Author of **[liquid_glass_nav](https://pub.dev/packages/liquid_glass_nav)** on pub.dev
 - 🎓 &nbsp;B.Tech, **NIT Durgapur**
@@ -43,21 +44,21 @@ I build Tessell's **AI-powered CloudOps desktop app** for AWS and Azure, with **
     <td width="72" align="center" valign="top"><img src="https://www.tessell.com/icon.svg" width="40" alt="Tessell" /></td>
     <td valign="top">
       <b>Member of Technical Staff 2</b> · <a href="https://www.tessell.com">Tessell</a> &nbsp;<sub>Mar 2026 – now · Bangalore</sub><br/>
-      Tessell's AI CloudOps desktop app: onboarding with AWS/Azure profile discovery and a bundled Python runtime, the Cloud Estate browser and its interactive network topology, OAuth integrations for GitHub, Google Drive, Jira, Linear and Slack (tokens kept in the OS keychain), and step-by-step runbook execution for cloud findings.
+      Tessell's AI CloudOps desktop app: onboarding with AWS/Azure profile discovery and a bundled Python runtime, the Cloud Estate browser and its interactive network topology, OAuth integrations for GitHub, Google Drive, Jira, Linear and Slack (tokens kept in the OS keychain), and step-by-step runbook execution for cloud findings. Also designed AI agents for SRE and DBA workflows that automate incident linkage, deployment tracking and reliability reports.
     </td>
   </tr>
   <tr>
     <td width="72" align="center" valign="top"><img src="https://www.google.com/s2/favicons?domain=deloitte.com&sz=128" width="40" alt="Deloitte" /></td>
     <td valign="top">
-      <b>Software Engineer</b> · Deloitte USI &nbsp;<sub>Jul 2024 – Mar 2026 · Hyderabad</sub><br/>
-      Pricing, promotions and order flow for Henry Schein's Global E-commerce Platform, serving 1M+ customers. Design-system components that made the UI 25% faster. 🏆 Two awards for delivery and innovation.
+      <b>Software Engineer</b> · Deloitte USI &nbsp;<sub>Jul 2024 – Feb 2026 · Hyderabad</sub><br/>
+      Full-stack modules for Henry Schein's healthcare suite, serving 1M+ customers across 300+ clinical solutions: Node.js/Express.js REST APIs with HIPAA-ready JWT auth, and reusable React.js components that cut load times by 25%. Core Web Vitals up 20%. 🏆 Applause and Spot Awards.
     </td>
   </tr>
   <tr>
     <td width="72" align="center" valign="top"><img src="https://www.google.com/s2/favicons?domain=tetratrion.com&sz=128" width="40" alt="TetraTrion" /></td>
     <td valign="top">
-      <b>Software Engineer (Part-Time)</b> · TetraTrion Technologies &nbsp;<sub>Sep 2023 – Jul 2024 · Bhubaneswar</sub><br/>
-      Client-facing dashboards with React.js and Apache ECharts.
+      <b>Software Developer Intern</b> · TetraTrion Technologies &nbsp;<sub>Aug 2023 – Jul 2024 · Bhubaneswar</sub><br/>
+      Client-facing dashboards for Digi Ubique's industrial clients, with Node.js REST APIs behind React and ECharts UIs.
     </td>
   </tr>
 </table>
@@ -101,8 +102,8 @@ I build Tessell's **AI-powered CloudOps desktop app** for AWS and Azure, with **
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,rust,python,dart,cpp,react,nextjs,angular,tauri,flutter,threejs,tailwind,redux,nodejs,express,mongodb,postgres,firebase,aws,azure,docker,git,figma&perline=12&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=ts,js,rust,python,dart,cpp,react,nextjs,angular,tauri,flutter,threejs,tailwind,redux,nodejs,express,mongodb,postgres,firebase,aws,azure,docker,git,figma&perline=12&theme=light" alt="Skills" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,java,rust,python,dart,react,nextjs,angular,tauri,flutter,threejs,tailwind,redux,nodejs,express,spring,graphql,postgres,mongodb,dynamodb,redis,aws,azure,docker,kubernetes,terraform,kafka,git,figma&perline=15&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=ts,js,java,rust,python,dart,react,nextjs,angular,tauri,flutter,threejs,tailwind,redux,nodejs,express,spring,graphql,postgres,mongodb,dynamodb,redis,aws,azure,docker,kubernetes,terraform,kafka,git,figma&perline=15&theme=light" alt="Skills" />
   </picture>
 </div>
 
