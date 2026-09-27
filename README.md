@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF512F,50:DD2476,100:8E2DE2&height=230&section=header&text=Om%20Prakash%20Yadav&fontSize=56&fontColor=ffffff&animation=fadeIn&desc=MTS%202%20%40%20Tessell%20%E2%80%A2%20Building%20AI%20CloudOps%20for%20AWS%20and%20Azure&descAlignY=62&descSize=17" width="100%" alt="Om Prakash Yadav" />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:FF512F,50:DD2476,100:8E2DE2&height=200&section=header&text=Om%20Prakash%20Yadav&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=MTS%202%20%40%20Tessell%20%E2%80%A2%20Building%20AI%20CloudOps%20for%20AWS%20and%20Azure&descAlignY=65&descSize=18" width="100%" alt="Om Prakash Yadav" />
 </div>
 
 <div align="center">
@@ -151,4 +151,4 @@ I build Tessell's **AI-powered CloudOps desktop app** for AWS and Azure, with **
   <b>Let's build something together.</b> Say hi on <a href="https://www.linkedin.com/in/omprakash-nitdgp/">LinkedIn</a> or <a href="mailto:omprakashnitdgp@gmail.com">email</a> 👋
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:DD2476,100:FF512F&height=110&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:8E2DE2,50:DD2476,100:FF512F&height=80&section=footer&text=Thanks%20for%20stopping%20by&fontSize=24&fontColor=ffffff&fontAlignY=50" width="100%" alt="" />
