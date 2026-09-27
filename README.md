@@ -1,18 +1,21 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF512F,50:DD2476,100:8E2DE2&height=230&section=header&text=Om%20Prakash%20Yadav&fontSize=56&fontColor=ffffff&animation=fadeIn&desc=MTS%202%20%40%20Tessell%20%E2%80%A2%20Building%20AI%20CloudOps%20for%20AWS%20%26%20Azure&descAlignY=62&descSize=17" width="100%" alt="Om Prakash Yadav" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF512F,50:DD2476,100:8E2DE2&height=230&section=header&text=Om%20Prakash%20Yadav&fontSize=56&fontColor=ffffff&animation=fadeIn&desc=MTS%202%20%40%20Tessell%20%E2%80%A2%20Building%20AI%20CloudOps%20for%20AWS%20and%20Azure&descAlignY=62&descSize=17" width="100%" alt="Om Prakash Yadav" />
 </div>
 
 <div align="center">
-  <a href="https://om-portfolio-delta.vercel.app"><img src="https://img.shields.io/badge/Portfolio-om--portfolio-FF512F?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/omprakash-nitdgp/"><img src="https://img.shields.io/badge/LinkedIn-omprakash--nitdgp-F0365A?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/intent/follow?screen_name=om_prakash_nit"><img src="https://img.shields.io/badge/X-@om__prakash__nit-DD2476?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
-  <a href="mailto:omprakashnitdgp@gmail.com"><img src="https://img.shields.io/badge/Email-omprakashnitdgp-B32BD9?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=om-prakash-yadav&label=profile%20views&color=8E2DE2&style=flat-square" alt="Profile views" />
+  <a href="https://om-portfolio-delta.vercel.app"><img src="https://img.shields.io/badge/Portfolio-FF512F?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/omprakash-nitdgp/"><img src="https://img.shields.io/badge/LinkedIn-F0365A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/intent/follow?screen_name=om_prakash_nit"><img src="https://img.shields.io/badge/X-DD2476?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="mailto:omprakashnitdgp@gmail.com"><img src="https://img.shields.io/badge/Email-B32BD9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=om-prakash-yadav&label=profile%20views&color=8E2DE2&style=for-the-badge" alt="Profile views" />
 </div>
 
 <br/>
 
-<img align="right" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer at work" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+  <img align="right" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer at work" />
+</picture>
 
 ## Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" alt="wave" />
 
